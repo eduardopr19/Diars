@@ -1,1 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/estilo1.css">
+	<script type="text/javascript" src="js/jquery-3.5.1.slim.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
+    <script src="https://kit.fontawesome.com/0b269550eb.js" crossorigin="anonymous"></script>
 
+</head>
+<body>
+	<div class="container border">
+		
+		<div class="row">
+			<div class="col-12 titulo text-center">
+				Nated Catering & Eventos
+			</div>
+		</div>
+
+            <div class = "row">
+               	 <div class="col-6 text-center" >
+				          <img src="imagenes/nated.png" height="100%" alt="" width="100%">
+			    </div>
+
+			      <div class="col-6 bg-white text-dark text-center pt-4">
+				       <h2>Historia <i class="fas fa-landmark"></i> </h2>
+				       <p class="pt-4 pb-4">
+					   Nated´s Catering & Eventos fue creada el 15 de febrero del 2013, Esto empezó cuando Sofía Rojas Salazar decide realizar los cumpleaños de sus propios hijos y es ahí cuando sus amistades y familiares cercanos comienzan a motivar que debería abrir una empresa relacionada con ese rubro y es ahí donde decide hacer uno de sus hobbies, su trabajo. En sus inicios Nated solo realizaba eventos para familiares o gente muy cerca de la familia luego mediante el uso de las redes sociales propaganda en periódicos y flyers es donde Nated se hace más conocido y logra tener buen alcance de público.
+				       </p>
+			       </div>
+
+             </div>
+		
+
+		<div class="row">
+			<div class="col-6 eti mt-4 mb-4 bg-white">
+				<div class="card">
+				  	<div class="card-header">
+					    <h2>Mision <i class="fab fa-tripadvisor"></i></h2>
+				  	</div>
+				  	<div class="card-body">
+					    
+					    <p class="card-text">
+					    	Satisfacer las necesidades de nuestros clientes por nuestro profesionalismo, honestidad, vocación de servicio y compromiso.
+
+				  	</div>
+				</div>
+			</div>
+
+			<div class="col-6 eti mt-4 mb-4 bg-white">
+				<div class="card">
+				  	<div class="card-header">
+					    <h2>  Vision <i class="fab fa-tripadvisor"></i></h2>
+				  	</div>
+				  	<div class="card-body">
+					    
+					    <p class="card-text">
+					    	Ser la empresa líder a nivel nacional en los mercados en los que competimos.
+				  	</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-12  text-center">
+				 <h2>Eventos Realizados</h2>
+			</div>
+		</div>
+
+		     <div class = "row">
+               	 <div class="col-6 text-center" >
+				          <img src="imagenes/foto1.jpg" height="80%" alt="" width="60%">
+				          
+			    </div>
+			    <div class="col-5 text-center" >
+				          
+				          <img src="imagenes/foto2.jpg"height="80%" alt="" width="60%">
+			    </div>
+
+             </div>
+
+                         <div class = "row">
+			      <div class="col-12 bg-white text-dark text-center pt-4">
+				       <h2>Protocolos <i class="fas fa-user-shield"></i> </h2>
+				       <p class="pt-4 pb-4">
+					   Actualmente vivimos en nueva realidad donde los protocolos de seguridad por Covid 19 son parte de nuestro dia a dia, Nated´s Catering & Eventos 
+					   impuso nuevas pautas en sus protocolos de seguridad.
+					   Evitaremos los eventos presenciales masivos, por eso propusimos realizar tu evento con una decoracion en un ambiente de tu eleccion y la trasmision por videoconferencia de dicho evento, contamos con el servicio de entretenimiento (Animadores) que se conectaran a tu videoconferencia para hacer que en este dia tan importante la pases muy amenamente.
+
+					   Nuestro personal y materiales estaran previamente desinfectado antes de acercarse a planificar y decorar tu evento de igual manera contamos ionisador desinfectante a vapor el cual hara que cuidemos tu salud al igual que la de nosotros.
+
+
+				       </p>
+			       </div>
+
+             </div>
+
+	</div>
+</body>
+</html>
